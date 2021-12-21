@@ -97,13 +97,13 @@
     display: none;
   }
   .large-hero__small-title {
-    letter-spacing: 21px;
+    letter-spacing: 9px;
     margin-bottom: 0.7rem;
     color: #eee;
   }
   .large-hero__title {
     font-family: "buyan";
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 700;
   }
   .large-hero__line {
@@ -114,7 +114,7 @@
   }
   .large-hero__description {
     font-size: 1.2rem;
-    max-width: 450px;
+    max-width: 400px;
     padding: 0.7rem 0;
   }
   .large-hero__img {
