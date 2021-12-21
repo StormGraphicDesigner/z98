@@ -71,6 +71,9 @@
 }
 
 @media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
   .large-hero {
     height: 90vh;
     max-width: 100%;
@@ -100,7 +103,7 @@
   }
   .large-hero__title {
     font-family: "buyan";
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 700;
   }
   .large-hero__line {
